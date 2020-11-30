@@ -1,7 +1,7 @@
 # deno-trial
 Trying out Demo install
 
-Go to (https://deno.land/)[https://deno.land/] for more info
+Go to [https://deno.land/](https://deno.land/) for more info
 
 In powershell: 
     iwr https://deno.land/x/install/install.ps1 -useb | iex
