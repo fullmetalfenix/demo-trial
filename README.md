@@ -1,5 +1,5 @@
 # deno-trial
-Trying out Demo install
+Trying out demo Deno install
 
 Go to [https://deno.land/](https://deno.land/) for more info
 
